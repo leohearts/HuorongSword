@@ -1,15 +1,15 @@
-# HRSword
-火绒剑独立版
+#HRSword
+Versión independiente de Tinder Sword
 
 
-基于 https://www.52pojie.cn/thread-1358235-1-1.html
+Basado en https://www.52pojie.cn/thread-1358235-1-1.html
 
-仅支持64位系统，持续更新
+Solo admite sistemas de 64 bits y se actualizará continuamente.
 
 
 
-## 可能出现的问题
+## Problemas que pueden surgir
 
-### 1.win7启动失败
+### 1.Win7 no pudo iniciarse
 
-请使用 Tools\win7_sha256_fix 签名补丁工具进行修复。
+Utilice la herramienta de parche de firma Tools\win7_sha256_fix para solucionarlo.
