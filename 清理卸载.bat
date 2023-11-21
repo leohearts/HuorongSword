@@ -10,6 +10,6 @@ sc delete hrwfpdrv
 reg delete "HKLM\SYSTEM\CurrentControlSet\Services\sysdiag" /f
 reg delete "HKLM\SYSTEM\CurrentControlSet\Services\hrwfpdr" /f
 
-rem «Î÷ÿ∆Ù
+rem Please reboot
 
 pause
